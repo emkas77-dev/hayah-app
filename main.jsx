@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Deepseek_jsx_20260801_6939c6.jsx
+import deepseek_jsx_20260801_e09b99.jsx
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
