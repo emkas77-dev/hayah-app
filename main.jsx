@@ -1,9 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import OperationsRoom from './OperationsRoom(21)jsx
+import './index.css'
+import OperationsRoom from './OperationsRoom.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <OperationsRoom />
-  </React.StrictMode>
+  <OperationsRoom />
 )
